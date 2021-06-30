@@ -26,4 +26,7 @@ Elouer mohammed akrem
 
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details
 ## Pictures
-![](images/Screenshot_20210606-115908.jpg)
+<img src="images/Screenshot_20210606-115908.jpg" width="300"> <img src="images/Screenshot_20210606-115914.jpg" width="300"> <img src="images/Screenshot_20210606-115939.jpg" width="300">  
+  
+<img src="images/Screenshot_20210606-115944.jpg" width="300"> <img src="images/Screenshot_20210606-115951.jpg" width="300"> 
+
