@@ -1,7 +1,5 @@
 # Ekridar
 
-Simple overview of use/purpose.
-
 ## Description
 
 Ekridar is an android app for renting houses its 90% done the project never seen the light because of low funding,  
