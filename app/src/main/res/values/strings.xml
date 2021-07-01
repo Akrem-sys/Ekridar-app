@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ekridar</string>
+    <string name="loading_please_wait">loading_please_wait</string>
+    <string name="email_adress">Email adress</string>
+    <string name="password">Password</string>
+    <string name="signin">Signin</string>
+    <string name="ekridar_logo">Ekridar Logo</string>
+    <string name="adresse_email">Adresse email</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="s_identifier">S\'identifier</string>
+    <string name="mot_de_passe_oubli_reinitlialiser">Mot de passe oublié ? Reinitlialiser</string>
+    <string name="vous_n_avez_pas_de_compte_s_inscrire">Vous n\'avez pas de compte? S\'inscrire</string>
+    <string name="action_example">action_example</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">action_settings</string>
+    <string name="ville">Ville</string>
+    <string name="residence">Residence</string>
+    <string name="maison">Maison</string>
+    <string name="description">Description....</string>
+    <string name="prix_mois_en_dt">Prix/mois en DT</string>
+    <string name="selectionner_des_images">Selectionner des images</string>
+    <string name="publier">Publier</string>
+    <string name="upload_image">upload image</string>
+    <string name="images">Images</string>
+    <string name="gouv">Gouvernorat</string>
+    <string name="delegations">Délégations</string>
+    <string name="meuble">Meublé</string>
+    <string name="non_meuble">Non meublé</string>
+    <string name="rester_connect">Rester connecté</string>
+</resources>
